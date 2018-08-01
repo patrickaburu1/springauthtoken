@@ -9,3 +9,9 @@ body
 username "Alex123"
 password "password"
 grant_type "password"
+
+
+
+Test Token
+
+Try http://localhost:8080/users/user then authorization with given token
